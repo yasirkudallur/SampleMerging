@@ -1,1 +1,2 @@
 My First File First Line
+My First File Second Line -> To Test Merge
